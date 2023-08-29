@@ -22,6 +22,7 @@ namespace SUP23
     {
         public MainWindow()
         {
+            //Skapar en cool inloggning
             InitializeComponent();
         }
     }
